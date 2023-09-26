@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mike1514
-- 👀 I’m interested in C#, .Net, Python
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in web development (.Net)
 - 📫 How to reach me: tg @mishalesiuk1
 
 <!---
